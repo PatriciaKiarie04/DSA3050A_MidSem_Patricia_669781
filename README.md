@@ -78,9 +78,9 @@ Acting as a Business Intelligence Analyst for an international frontier-markets 
 
 ## Business Insights
 
-See `Insights.pdf` for the full write-up. Summary:
+ `Insights.pdf` for the full write-up. Summary:
 
-1. **Infrastructure gap in developing economies** — Developing nations make up the largest share of tracked countries (25.37%) but show markedly lower electricity access than Developed nations, pointing to both risk and infrastructure-investment opportunity.
+1. **Infrastructure gap in developing economies** - Developing nations make up the largest share of tracked countries (25.37%) but show markedly lower electricity access than Developed nations, pointing to both risk and infrastructure-investment opportunity.
 2. **Rising global emissions increase long-term ESG exposure** — Global CO2 emissions trend upward consistently from 2000–2020, signaling rising future compliance/regulation costs relevant to long-horizon investment theses.
 3. **Electricity access and emissions move together in early industrialization** — A positive relationship between electricity access and CO2 emissions suggests that closing the infrastructure gap in emerging markets will likely worsen emissions profiles before they stabilize, reinforcing the case for pairing infrastructure investment with renewable energy strategy.
 
